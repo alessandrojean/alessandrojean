@@ -15,7 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I started to have my fascination by the computing area since I was a child,
+- I started to like the computing area in my childhood when I had an old PC;
+- I’ve finished a technical IT course interlinked with my high school;
+- I’m currently studying Computer Science at UFABC;
+- I like to share knowledge about the area I study;
+- I also have a huge hobby related to *anime* and *manga*.
+
+You can also find me on [Twitter](https://twitter.com/alessandrojean_)
+and on [Instagram](https://instagram.com/alessandrojean).
+
+*El Psy Kongroo*
+
+<!-- I started to have my fascination by the computing area since I was a child,
 when I used to have a Windows 98 PC. Since then, I have never stopped.
 
 I have finished a technical IT course that was interlinked with the high school,
@@ -29,6 +40,4 @@ by programming and creating things that are useful to my routine.
 Sharing knowledge is a thing that I like a lot because I feel good by 
 helping and teaching people about the area I study.
 
-I also have a huge hobby related to anime and manga.
-
-*El Psy Kongroo*
+I also have a huge hobby related to anime and manga.-->
