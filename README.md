@@ -1,4 +1,4 @@
-### Nice to meet you 👋
+## Nice to meet you 👋
 
 <!--
 **alessandrojean/alessandrojean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Instagram badge](https://img.shields.io/badge/-@alessandrojean-555555?style=flat-square&labelColor=e1306c&logo=instagram&logoColor=white&link=https://instagram.com/alessandrojean)](https://instagram.com/alessandrojean)
+[![Twitter badge](https://img.shields.io/badge/-@alessandrojean__-555555?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/alessandrojean_)](https://twitter.com/alessandrojean_)
+
 - I started to like the computing area in my childhood when I had an old PC;
 - I’ve finished a technical IT course interlinked with my high school;
 - I’m currently studying Computer Science at UFABC;
 - I like to share knowledge about the area I study;
 - I also have a huge hobby related to *anime* and *manga*.
-
-You can also find me on [Twitter](https://twitter.com/alessandrojean_)
-and on [Instagram](https://instagram.com/alessandrojean).
 
 *El Psy Kongroo*
 
