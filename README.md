@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 [![Instagram badge](https://img.shields.io/badge/-@alessandrojean-555555?style=flat-square&labelColor=e1306c&logo=instagram&logoColor=white&link=https://instagram.com/alessandrojean)](https://instagram.com/alessandrojean)
 [![Twitter badge](https://img.shields.io/badge/-@alessandrojean__-555555?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/alessandrojean_)](https://twitter.com/alessandrojean_)
+-->
 
 - I started to like the computing area in my childhood when I had an old PC;
 - I’ve finished a technical IT course interlinked with my high school;
