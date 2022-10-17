@@ -5,7 +5,7 @@
 - Currently studying Computer Science at [UFABC];
 - I like to share knowledge about the area I study;
 - Currently working in [Toshokan] and [Toshokan Android], a tool that helps in the management of a book collection;
-- If you like any of my projects or contributions, you can make a donation through [PicPay] (Brazil only).
+- If you like any of my projects or contributions, you can make a donation through [Ko-fi] or [PicPay] (Brazil only).
 
 *El Psy Kongroo*
 
@@ -13,3 +13,4 @@
 [Toshokan]: https://github.com/alessandrojean/toshokan/
 [Toshokan Android]: https://github.com/alessandrojean/toshokan-android/
 [PicPay]: https://picpay.me/alessandrojean/
+[Ko-fi]: https://ko-fi.com/alessandrojean/
